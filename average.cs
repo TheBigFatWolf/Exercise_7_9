@@ -1,7 +1,7 @@
 using System;
 public class Average
 {
-	public static void Main()
+	static void Main()
 	{
 		double totalSum = 0, value = 0, numCounter = 0, marksAverage = 0;
 		string mark = "" ;

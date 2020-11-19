@@ -1,7 +1,7 @@
 using System;
 public class Digits
 {
-    public static void Main()
+    static void Main()
     {
         int dOne = 0, dTwo = 0, dThree = 0, dMore = 0, input = 0;
         string number = "";
